@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AgricolaBuild/static/css/main.f71e121a.css",
+    "main.js": "/AgricolaBuild/static/js/main.16c98f10.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AgricolaBuild/static/js/787.28cb0dcd.chunk.js",
+    "static/media/actionField1.jpg": "/AgricolaBuild/static/media/actionField1.6d7a98e4e4b89b3a66a3.jpg",
+    "static/media/actionField2.jpg": "/AgricolaBuild/static/media/actionField2.4d324f662b526e09f472.jpg",
+    "static/media/border.png": "/AgricolaBuild/static/media/border.746e2dd1e35ad679a339.png",
+    "static/media/playerField.jpg": "/AgricolaBuild/static/media/playerField.bfe34d4dbab650ff0e2e.jpg",
+    "static/media/background.jpg": "/AgricolaBuild/static/media/background.a24f702fc99fcd38dee0.jpg",
+    "index.html": "/AgricolaBuild/index.html",
+    "main.f71e121a.css.map": "/AgricolaBuild/static/css/main.f71e121a.css.map",
+    "main.16c98f10.js.map": "/AgricolaBuild/static/js/main.16c98f10.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AgricolaBuild/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f71e121a.css",
+    "static/js/main.16c98f10.js"
+  ]
+}
