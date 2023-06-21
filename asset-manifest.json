@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AgricolaBuild.git/static/css/main.4656dc2c.css",
+    "main.js": "/AgricolaBuild.git/static/js/main.5467beec.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AgricolaBuild.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/actionField1.jpg": "/AgricolaBuild.git/static/media/actionField1.6d7a98e4e4b89b3a66a3.jpg",
+    "static/media/actionField2.jpg": "/AgricolaBuild.git/static/media/actionField2.4d324f662b526e09f472.jpg",
+    "static/media/border.png": "/AgricolaBuild.git/static/media/border.746e2dd1e35ad679a339.png",
+    "static/media/playerField.jpg": "/AgricolaBuild.git/static/media/playerField.bfe34d4dbab650ff0e2e.jpg",
+    "static/media/background.jpg": "/AgricolaBuild.git/static/media/background.a24f702fc99fcd38dee0.jpg",
+    "index.html": "/AgricolaBuild.git/index.html",
+    "main.4656dc2c.css.map": "/AgricolaBuild.git/static/css/main.4656dc2c.css.map",
+    "main.5467beec.js.map": "/AgricolaBuild.git/static/js/main.5467beec.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AgricolaBuild.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4656dc2c.css",
+    "static/js/main.5467beec.js"
+  ]
+}
